@@ -4,7 +4,7 @@
 ++++++++++[>++++++++++>+++>++++++++++<<<-]>++++.---.+++++++..+++.>++.<+++++.>>++++.---.<<--.>>.
 ```
 
-<img src="https://i.imgur.com/ERMXuHN.gif" width=400>
+<img src="https://i.imgur.com/ERMXuHN.gif" width=200>
 
 <h2><b>Hello There!</b></h2>
 </div>
