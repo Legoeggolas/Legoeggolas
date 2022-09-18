@@ -55,3 +55,9 @@
 ![](https://komarev.com/ghpvc/?username=Legoeggolas&style=flat-square&label=Views)
 
 </details>
+
+<details>
+    <summary><b>Meme</b></summary>
+    <i>Me after making one basic UI with OpenGL</i>:
+    <img src="./src/amaterasu.png">
+</details>
